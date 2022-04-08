@@ -1,34 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![METAVERSE-1](https://user-images.githubusercontent.com/90610801/162426584-74b51d87-925b-473f-ae62-8d661e58b522.jpg)
+![METAVERSE-2](https://user-images.githubusercontent.com/90610801/162426601-f2c513de-97ac-42a2-b251-2390bc75443e.jpg)
+![METAVERSE-3](https://user-images.githubusercontent.com/90610801/162426619-c32d99e5-56ef-4287-b207-0f4d92b65fb2.jpg)
+![METAVERSE-4](https://user-images.githubusercontent.com/90610801/162426639-30be527a-81be-4e93-a80d-ebc16d1f3874.jpg)
+![METAVERSE-5](https://user-images.githubusercontent.com/90610801/162426649-42e26a30-d649-4c9b-9c5c-14bf5b78f85e.jpg)
+![METAVERSE-6](https://user-images.githubusercontent.com/90610801/162426659-012ee99f-d745-494f-bd6c-b9c8df1308d7.jpg)
+![METAVERSE-7](https://user-images.githubusercontent.com/90610801/162426671-1e6c64e5-d26c-4849-b413-c0baf47830b6.jpg)
+![METAVERSE-8](https://user-images.githubusercontent.com/90610801/162426686-5e25c613-3a0b-41fb-989b-091dbbf994ea.jpg)
+![METAVERSE-9](https://user-images.githubusercontent.com/90610801/162426699-4bcdeee5-1048-46e2-bbed-a8f87ac1ae9a.jpg)
