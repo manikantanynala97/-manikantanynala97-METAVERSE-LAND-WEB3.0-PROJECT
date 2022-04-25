@@ -1,3 +1,6 @@
+Etherscan Rinkeby Testnet  -> https://rinkeby.etherscan.io/address/0xDBa5dd058a176094a24ddCBA5d302288890221Ad
+
+
 Link for the video -> https://www.youtube.com/watch?v=Xp734z4kjNM
 
 
